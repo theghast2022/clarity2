@@ -1,5 +1,5 @@
 token= NTQ1Njg2NzcxODMzNTAzNzU1.D0dSgg.HuZ3fOPUUd9cbPy37u3_JK93C7c
-owner= هنا حط الايدي حقك 
+owner= 444918581659172864 
 prefix= 2
 game= 2play | 2help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
